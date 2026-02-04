@@ -2,7 +2,7 @@
 Java core concepts with practical examples.
 This repository contains **concept-based Java programs** created to strengthen core Java fundamentals.
 
-## 📌 Topics Covered
+## *********** Topics Covered ************
 
 Object-Oriented Programming (OOP)
   1. Constructor
